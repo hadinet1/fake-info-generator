@@ -1,6 +1,6 @@
-# Create Fake info with scritp V0.1
-
-
+# Fake Info Generator 
+#‌ Developed By hadinet1
+# t.me/hadinet1
 
 from requests import get,post
 from bs4 import BeautifulSoup
